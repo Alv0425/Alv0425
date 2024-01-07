@@ -10,7 +10,7 @@
   - telegram: [@alv0425
 ](https://t.me/alv0425)
 
-![Codewars](https://github.r2v.ch/codewars?user=Alv0425)
+[![codewars](https://www.codewars.com/users/alv0425/badges/large)](https://www.codewars.com/users/alv0425) 
 
 ![Alv0425 GitHub stats](https://github-readme-stats.vercel.app/api?username=alv0425&hide=contribs,prs)
 
