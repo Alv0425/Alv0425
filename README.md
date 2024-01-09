@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Aliona
-### 📚 And i'm a Rolling Scopes School student since 2023.
+### 📚 And I'm a Rolling Scopes School student since 2023 =)
 
 - 🔭 I'm graduated from Belarusian State University and started out as a researcher in the field of optical materials, spectroscopy and laser physics. But now I'm trying to dive into web development. 
 
@@ -14,3 +14,9 @@
 
 ![Alv0425 GitHub stats](https://github-readme-stats.vercel.app/api?username=alv0425&hide=contribs,prs)
 
+### My training projects:
+- **[Brooklyn Public Library](https://alv0425.github.io/JSS0-PRESCHOOL-2023Q2/library/)** - interactive layout. Pure JS, HTML & CSS was used. Registration / log-in and subscription demo was implemented using ``LocalStorage``.
+- **[JS-30: audio-player](https://alv0425.github.io/JSS0-PRESCHOOL-2023Q2/audio-player/)** - audio-player with fixed playlist: pure JS, HTML, CSS.
+- **[JS-30: image-gallery](https://alv0425.github.io/JSS0-PRESCHOOL-2023Q2/image-gallery/)** - image grid generator based on Unsplash and Flickr API.
+- **[JS-30: random-game](https://alv0425.github.io/JSS0-PRESCHOOL-2023Q2/random-game/)** - Water Sort Puzzle
+- **[Coffee House](https://rolling-scopes-school.github.io/alv0425-JSFE2023Q4/coffee-house/)** - 2-pages layout of coffee shop
