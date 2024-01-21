@@ -26,3 +26,4 @@
 - **[JS-30: image-gallery](https://alv0425.github.io/JSS0-PRESCHOOL-2023Q2/image-gallery/)** - image grid generator based on Unsplash and Flickr API.
 - **[JS-30: random-game](https://alv0425.github.io/JSS0-PRESCHOOL-2023Q2/random-game/)** - Water Sort Puzzle
 - **[Coffee House](https://rolling-scopes-school.github.io/alv0425-JSFE2023Q4/coffee-house/)** - 2-pages layout of coffee shop
+- **[Hangman Game](https://rolling-scopes-school.github.io/alv0425-JSFE2023Q4/hangman/)** - word-guessing game
