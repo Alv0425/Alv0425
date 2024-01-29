@@ -2,8 +2,6 @@
 ### I'm Aliona
 ### 📚 And I'm a Rolling Scopes School student since 2023 =)
 
-- 🔭 I've graduated from Belarusian State University and started out as a researcher in the field of optical materials, spectroscopy and laser physics. But now I'm trying to dive into web development. 
-
 - 📫 How to reach me:
   - ✉ e-mail: vilejshikova@gmail.com
   - 💬 telegram: [@alv0425
