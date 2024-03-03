@@ -8,7 +8,7 @@
 ](https://t.me/alv0425)
   - 💬 discord: [@Aliona#7409](https://discordapp.com/users/1122842754175742052)
 
-![codewars](https://www.codewars.com/users/rsschool_eaf7ac6ebae90819/badges/large) 
+![codewars](https://www.codewars.com/users/alv0425/badges/large) 
 
 ![Alv0425 GitHub stats](https://github-readme-stats.vercel.app/api?username=alv0425&hide=contribs,prs)
 
